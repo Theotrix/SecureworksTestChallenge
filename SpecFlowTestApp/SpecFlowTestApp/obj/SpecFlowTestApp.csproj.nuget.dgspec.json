@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj": {}
+    "D:\\Projects\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj": {}
   },
   "projects": {
-    "E:\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj": {
+    "D:\\Projects\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj",
+        "projectUniqueName": "D:\\Projects\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj",
         "projectName": "SpecFlowTestApp",
-        "projectPath": "E:\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj",
+        "projectPath": "D:\\Projects\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\SpecFlowTestApp.csproj",
         "packagesPath": "C:\\Users\\theop\\.nuget\\packages\\",
-        "outputPath": "E:\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\obj\\",
+        "outputPath": "D:\\Projects\\SecureWorks\\SpecFlowTestApp\\SpecFlowTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theop\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[17.0.0, )"
             },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -65,10 +69,6 @@
             "SpecFlow.xUnit": {
               "target": "Package",
               "version": "[3.9.22, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.4.1, )"
             },
             "xunit.runner.visualstudio": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
