@@ -6,6 +6,7 @@ You'll need to install the following:
 - .net 6 -> https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 - C# Supported IDE -> (https://visualstudio.microsoft.com/downloads/ or https://www.jetbrains.com/rider/download/)
 - Add SpecFlow plugin to your IDE (https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowForVisualStudio or https://plugins.jetbrains.com/plugin/15957-specflow-for-rider)
+- Google Chrome Browser, version 103. In order for the test project to work with a different version, you'll need to update (or downgrade) the NuGet Package for Chromedriver
 
 After you finish these steps, you can open the projects in your IDE.
 
